@@ -1,6 +1,6 @@
 html, body {
       /* Thay đổi màu nền tại đây */
-      background-color: #a2fdc1;
+      background-color: hsl(111, 81%, 83%);
       margin: 0;
       padding: 0;
 }
